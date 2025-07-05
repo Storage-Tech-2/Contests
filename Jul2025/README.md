@@ -17,6 +17,7 @@ Design a sorting system that can sort a variety of unstackable items in the next
 
 ### Submission Guidelines
 - Submit a schematic of the design with a description of what items it sorts, and what features it has to #contest-submissions . Note: what you submit for the contest will NOT be considered for archival by default.
+- You must have made the bulk of the device during the contest. You can use existing components but submissions of full devices already published elsewhere may be heavily penalized.
 
 ### Prizes
 - The winning team will be awarded a special role (unstackable champion) in the community and recognition for their achievement.
