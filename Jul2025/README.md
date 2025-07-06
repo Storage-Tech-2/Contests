@@ -34,3 +34,11 @@ Design a sorting system that can sort a variety of unstackable items in the next
 
 ### Notes
 You may use allays or other sorting techniques, but be mindful of how points are given. You are not allowed to use the copper golem or any content from snapshots. If you find an issue with your submission, we will accept corrections after the deadline but make no guarantees that judges will update scores if it has already been graded.
+
+## Clarifications
+1. Armor types for extra points refer to the different slots you can put the armor in, not the material such as iron, diamond, etc...
+2. All items must be survival obtainable in 1.21.4
+3. We judge volume by taking the smallest cuboid bounding box of the submission and counting the number of blocks inside the area, including air blocks.
+
+### Join the Discord
+https://discord.gg/hztJMTsx2m
